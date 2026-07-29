@@ -7,4 +7,4 @@ router = Router()
 @router.callback_query(lambda call: call.data == "weather")
 async def weather(callback: CallbackQuery):
 
-    await callback.message.answer("Введите город, чтобы узнать погоду или назад для возвращения в меню:")
+    await callback.message.answer('Введите город, чтобы узнать погоду или назад для возвращения в меню, пример "Москва":')
