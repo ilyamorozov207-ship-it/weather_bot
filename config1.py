@@ -1,1 +1,1 @@
-TOKEN = "8893213073:AAEeXxBWwlFW5N-0VGT_tP4MXI0e2qZFmZ0"
+TOKEN = "Укажите токен своего бота"
